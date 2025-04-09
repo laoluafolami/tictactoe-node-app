@@ -1,0 +1,16 @@
+{
+    "name": "tictactoe-app",
+    "version": "1.0.0",
+    "description": "Simple Tic-Tac-Toe game deployed on AWS Elastic Beanstalk",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "engines": {
+      "node": "18.x"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
